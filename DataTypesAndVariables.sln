@@ -3,21 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerOperations", "IntegerOperations\IntegerOperations.csproj", "{E2E7DF2B-67FF-4958-88D5-9EF2D2EF8F9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerOperations", "IntegerOperations\IntegerOperations.csproj", "{E2E7DF2B-67FF-4958-88D5-9EF2D2EF8F9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDigits", "SumOfDigits\SumOfDigits.csproj", "{E6CEB01F-2011-4A9F-AF18-141367129D70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfDigits", "SumOfDigits\SumOfDigits.csproj", "{E6CEB01F-2011-4A9F-AF18-141367129D70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator", "Elevator\Elevator.csproj", "{09396105-7970-42D3-9987-964398EAB748}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elevator", "Elevator\Elevator.csproj", "{09396105-7970-42D3-9987-964398EAB748}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfChars", "SumOfChars\SumOfChars.csproj", "{DA8C0B9F-BFEC-4F33-A307-03E91F4997BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfChars", "SumOfChars\SumOfChars.csproj", "{DA8C0B9F-BFEC-4F33-A307-03E91F4997BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintAscii", "PrintAscii\PrintAscii.csproj", "{436441C1-3A28-4CB8-955C-9C81AC1E61F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintAscii", "PrintAscii\PrintAscii.csproj", "{436441C1-3A28-4CB8-955C-9C81AC1E61F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriplesLatinLetters", "TriplesLatinLetters\TriplesLatinLetters.csproj", "{77949198-2BA5-4E07-90EB-94DF3C96BA92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriplesLatinLetters", "TriplesLatinLetters\TriplesLatinLetters.csproj", "{77949198-2BA5-4E07-90EB-94DF3C96BA92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterOverflow", "WaterOverflow\WaterOverflow.csproj", "{6CC3E38D-03FF-406D-B904-8BBCCD8B44ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaterOverflow", "WaterOverflow\WaterOverflow.csproj", "{6CC3E38D-03FF-406D-B904-8BBCCD8B44ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiggestKed", "BiggestKed\BiggestKed.csproj", "{3F8FE15C-89EB-4A6B-9090-A0074AF8F181}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BiggestKed", "BiggestKed\BiggestKed.csproj", "{3F8FE15C-89EB-4A6B-9090-A0074AF8F181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiceMustFlow", "SpiceMustFlow\SpiceMustFlow.csproj", "{1E8EB3E7-18C9-48A2-ADA1-A7E58F88C2CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon", "Pokemon\Pokemon.csproj", "{D44813E8-4009-4E70-92F6-2961CFD02555}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{3F8FE15C-89EB-4A6B-9090-A0074AF8F181}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F8FE15C-89EB-4A6B-9090-A0074AF8F181}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F8FE15C-89EB-4A6B-9090-A0074AF8F181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8EB3E7-18C9-48A2-ADA1-A7E58F88C2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8EB3E7-18C9-48A2-ADA1-A7E58F88C2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8EB3E7-18C9-48A2-ADA1-A7E58F88C2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8EB3E7-18C9-48A2-ADA1-A7E58F88C2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44813E8-4009-4E70-92F6-2961CFD02555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44813E8-4009-4E70-92F6-2961CFD02555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44813E8-4009-4E70-92F6-2961CFD02555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44813E8-4009-4E70-92F6-2961CFD02555}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
